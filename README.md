@@ -2,7 +2,7 @@ Dieses Script nutzt die elabFTW API um Listen von Emailadressen zu erzeugen. Es 
 
 Die Ausgabedateien landen im Ordner `output`.
 
-Man benötigt einen API Key, den man unter https://<elabftw-url>/ucp.php?tab=4 erzeugen kann. Er wird am Anfang abgefragt.
+Man benötigt einen API Key, den man unter https://\<elabftw-url\>/ucp.php?tab=4 erzeugen kann. Er wird am Anfang abgefragt.
 
 Ausgeführt kann das Script entweder lokal nutzen. Oder eben über `docker compose` - dann muss das aber auch [installiert](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository) sein. 
 
